@@ -1,0 +1,20 @@
+{
+    "name": "invosa-sdk/notifier",
+    "description": "Test for telegram Bot Api using PHP",
+    "type": "project",
+    "require": {
+        "telegram-bot/api": "~2.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "squizlabs/php_codesniffer": "2.*",
+        "codeception/codeception": "*"
+    },
+    "authors": [
+        {
+            "name": "Bambang Adrian S",
+            "email": "bambang@invosa.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
